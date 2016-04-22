@@ -1,4 +1,4 @@
 # learngit
 Repo to learn git
 
-i am learnig git.
+i am git.
